@@ -1,0 +1,3 @@
+{"ts":1373176712679,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":false,"ts":1373176600506,"patch":[[{"diffs":[[1,"[\"h1\",\r\n \".navigation\"]"]],"start1":0,"start2":0,"length1":0,"length2":23}]],"length":23,"saved":false}
+{"ts":1373176830076,"patch":[[{"diffs":[[0,"\",\r\n"],[-1," "],[0,"\".na"]],"start1":4,"start2":4,"length1":9,"length2":8},{"diffs":[[0,"vigation"],[1,"\",\r\n\"h1\",\r\n\".navigation\",\r\n\".logo\",\r\n\".blank\",\r\n\".about\",\r\n\".heading\",\r\n\".subheading\",\r\n\".pitch\",\r\n\".video\",\r\n\".thermometer\",\r\n\".order\",\r\n\".social\",\r\n\".section1\",\r\n\".section2\",\r\n\".faq\",\r\n\".footer"],[0,"\"]"]],"start1":12,"start2":12,"length1":10,"length2":205}]],"length":217,"saved":false}
